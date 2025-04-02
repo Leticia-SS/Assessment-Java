@@ -12,10 +12,10 @@ public class Ex02 {
         System.out.print("Digite sua senha: ");
         String password = input.next();
 
-        boolean isValid = false;
+//        boolean isValid = false; // Redundante
 
         // Referencia: https://regex101.com/
-        while (!isValid) {
+        while (true) {
             if(password.length() < 8){
                 System.out.println("Senha deve ter mais de 8 caracteres\n");
             } else if (!password.matches(".*[A-Z].*")) {
@@ -25,7 +25,7 @@ public class Ex02 {
             } else if (!password.matches(".*[@#$%&*!].*")) {
                 System.out.println("Senha deve conter pelo menos um caracter especial\n");
             } else {
-                isValid = true;
+//                isValid = true;
                 System.out.println("Senha válida");
                 break;
             }
