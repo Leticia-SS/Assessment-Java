@@ -12,8 +12,6 @@ public class Ex02 {
         System.out.print("Digite sua senha: ");
         String password = input.next();
 
-//        boolean isValid = false; // Redundante
-
         // Referencia: https://regex101.com/
         while (true) {
             if(password.length() < 8){
@@ -25,7 +23,6 @@ public class Ex02 {
             } else if (!password.matches(".*[@#$%&*!].*")) {
                 System.out.println("Senha deve conter pelo menos um caracter especial\n");
             } else {
-//                isValid = true;
                 System.out.println("Senha válida");
                 break;
             }
