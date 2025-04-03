@@ -35,12 +35,12 @@
     &quot;assignee&quot;: &quot;Leticia-SS&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Leticia-SS/Assessment-Java.git&quot;,
-    &quot;accountId&quot;: &quot;37591272-a7a4-43a0-9992-4b63be3f8796&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Leticia-SS/Assessment-Java.git",
+    "accountId": "3391112c-67c3-426b-b968-514c58b2080b"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -50,22 +50,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Ex02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OlaMundo.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Darkw/OneDrive/Documentos/Leticia/Faculdade/Java Fundamentals&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/leticia.ssilva/IdeaProjects/Assessment-Java/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Ex02.executor": "Run",
+    "Application.Ex3.executor": "Run",
+    "Application.Ex4.executor": "Run",
+    "Application.OlaMundo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Darkw/OneDrive/Documentos/Leticia/Faculdade/Java Fundamentals",
+    "onboarding.tips.debug.path": "C:/Users/leticia.ssilva/IdeaProjects/Assessment-Java/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -139,7 +148,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743592654774</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="exercicio 04">
+      <option name="closed" value="true" />
+      <created>1743680978427</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1743680978427</updated>
+    </task>
+    <task id="LOCAL-00010" summary="exercicio 04">
+      <option name="closed" value="true" />
+      <created>1743681632195</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1743681632195</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,6 +192,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="exercicio 01" />
     <MESSAGE value="exercicio 02 ajustes" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercicio 02 ajustes" />
+    <MESSAGE value="exercicio 04" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercicio 04" />
   </component>
 </project>

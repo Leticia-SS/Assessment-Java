@@ -10,6 +10,6 @@ public class Ex3 {
 
         ImpostoDeRenda imposto = new ImpostoDeRenda();
 
-        System.out.println(imposto.calcularImposto(salario));
+        System.out.printf(imposto.calcularImposto(salario));
     }
 }

@@ -13,6 +13,6 @@ public class ImpostoDeRenda {
             imposto = 0;
         }
         liquido = bruto - imposto;
-        return "=====================\n" + "Imposto a pagar: R$" + imposto + "\nSalário Anual Líquido: R$" + liquido;
+        return "=====================\n Imposto a pagar: R$" + String.format("%.2f",imposto) + "\nSalário Anual Líquido: R$" +String.format("%.2f",liquido);
     }
 }
