@@ -1,0 +1,3 @@
+Produto: Notebook Dell | Preço: 5462.5 | Quantidade: 45
+Produto: Samsung S25 | Preço: 2948.59 | Quantidade: 35
+Produto: Fone de Ouvido | Preço: 309.0 | Quantidade: 65
