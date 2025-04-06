@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e18fa247-044e-43e8-bccd-fd59f0b8951f" name="Changes" comment="exercicio 08">
-      <change afterPath="$PROJECT_DIR$/src/Exercicio09/ContaBancaria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio09/Ex9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio11/Ex11.java" afterDir="false" />
+    <list default="true" id="e18fa247-044e-43e8-bccd-fd59f0b8951f" name="Changes" comment="exercicio 09">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio11/Ex11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio11/Ex11.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +55,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Ex02.executor": "Run",
+    "Application.Ex11.executor": "Run",
     "Application.Ex3.executor": "Run",
     "Application.Ex4.executor": "Run",
     "Application.Ex5.executor": "Run",
@@ -166,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743960451762</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="exercicio 09">
+      <option name="closed" value="true" />
+      <created>1743972830801</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1743972830801</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,6 +204,7 @@
     <MESSAGE value="exercicio 06" />
     <MESSAGE value="exercicio 07" />
     <MESSAGE value="exercicio 08" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercicio 08" />
+    <MESSAGE value="exercicio 09" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercicio 09" />
   </component>
 </project>
